@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Prospecter": {
+            "applicationId": "N85QOkteEEQkuZVJKAvt8MVes0sjG6qNpEGqQFVJ", 
+            "masterKey": "RQgSIyw9rxC4xn4KlsIEYzDIpkxNIUlLz70akJcT"
+        }, 
+        "_default": {
+            "link": "Prospecter"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.18"
+    }
+}
